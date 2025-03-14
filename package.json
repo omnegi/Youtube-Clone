@@ -1,0 +1,16 @@
+{
+  "name": "projectpro",
+  "version": "1.0.0",
+  "description": "my personal project",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Om Negi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
